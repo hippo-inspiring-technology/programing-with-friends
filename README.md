@@ -8,3 +8,6 @@ Repository that contains programing lessons
 
 ## Instalar VSCode
 1. Descargar vscode desde https://code.visualstudio.com/
+
+## Descargar git 
+1. Descargar git desde https://git-scm.com/downloads
